@@ -51,10 +51,22 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
-  "React",
-  "Next.js",
+  "JavaScript (ES6)",
+  "HTML 5",
+  "React, Redux, Hooks",
+  "React Native",
+  "Webpack",
+  "Styled Components",
   "Node",
-  "GraphQL",
-  "Material UI",
+  "MongoDB",
+  "PostgreSQL",
+  "Docker",
+  "Express",
+  "AWS (EC2)",
+  "Jest",
+  "React Testing Libraries",
+  "Circle/Ci",
+  "Mocha",
+  "Chai",
+  "NGINX"
 ];
