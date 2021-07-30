@@ -1,54 +1,39 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Travel Bug",
+    subtitle: "React Native, Express, Node, MongoDB",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "Travel Bug is a mobile app designed for a client who's business is dedicated to creating study abroad opporunities for students around the globe. The primary features include providing itinerary events, a calendar to reference events, a GPS enabled map with pregenerated pins for locations tied to the study abroad program, an important contacts page, and a two-way messaging system.",
+    image: "./travelBug.png",
+    link: "https://github.com/Safe-Sojourns/travel-bug",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Runway Inconceivable",
+    subtitle: "PostgreSQl, Javascript, Express, NGINX",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "Runway-Inconceivable is a back-end design for a front-end legacy codebase for an e-commerce website focused on clothing and apparel. I was responsible for building out the server and database for the product overview section of the website. The database deployed on AWS EC2 instances and scaled to handle production level web traffic, utilizing NGINX as a load blancer.",
+    image: "./Schema.png",
+    link: "https://github.com/runway-inconceivable/overview-api",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Triceratop Republic ",
+    subtitle: "React, Express, Node",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "Triceratop Republic is a single-page e-commerce HTML5 web application designed in React.js to showcase clothing products. The application includes an overview with general product information, a related products section to compare items and add them to a personal outfit list. Also contains a question and answers section as well as ratings and reviews.",
+    image: "./fec.png",
+    link: "https://github.com/Pixel-Triceratops/Triceratops-Republic",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "MV-Pizza",
+    subtitle: "React, Styled Components",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "For this project, I created a minimum viable product, giving myself a deadline of two days to create a full stack app. I tested my feature creating abilities, and utilized my time management skills. I created an HTML5 app, using React.js and CSS Styled Components for a streamlined UI. The app allows customers to order food.",
+    image: "./mvPizza.png",
+    link: "https://github.com/sgsparks/MV-Pizza",
   },
 ];
 
-export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
-  },
-];
+
 
 export const skills = [
   "JavaScript (ES6)",

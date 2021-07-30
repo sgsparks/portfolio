@@ -36,16 +36,15 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
-            src="https://www.google.com/maps/embed/v1/place?q=1952+thorndyke+ave+w+&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+            src="https://maps.google.com/maps?q=Seattle%20washington&t=k&z=11&ie=UTF8&iwloc=&output=embed"
           />
           <div className="bg-gray-800 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
-                ADDRESS
+                HOME TOWN
               </h2>
               <p className="mt-1">
-                1952 Thorndyke Ave <br />
-                Seattle, W 98199
+                Seattle, Washington
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
@@ -71,8 +70,7 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+            I am looking for opportunities to collaborate with a brilliant team, learn as much as possible, and ship great products.
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
