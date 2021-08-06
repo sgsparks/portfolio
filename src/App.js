@@ -4,7 +4,8 @@ import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
-import Footer from './components/Footer'
+import Footer from './components/Footer';
+import Story from './components/Story';
 
 
 export default function App() {
@@ -13,6 +14,7 @@ export default function App() {
       <Navbar />
       <About />
       <Projects />
+      <Story />
       <Skills />
       <Contact />
       <Footer />
