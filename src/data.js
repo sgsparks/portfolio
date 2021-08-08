@@ -3,7 +3,7 @@ export const projects = [
     title: "Travel Bug",
     subtitle: "React Native, Express, Node, MongoDB",
     description:
-      "Travel Bug is a mobile app designed for a client who's business is dedicated to creating study abroad opporunities for students around the globe. The primary features include providing itinerary events, a calendar to reference events, a GPS enabled map with pregenerated pins for locations tied to the study abroad program, an important contacts page, and a two-way messaging system.",
+      "Travel Bug is a mobile app designed for a client who's business is dedicated to creating study abroad opportunities for students around the globe. The primary features include providing itinerary events, a calendar to reference events, a GPS enabled map with pregenerated pins for locations tied to the study abroad program, an important contacts page, and a two-way messaging system.",
     image: "./travelBug.png",
     link: "https://github.com/Safe-Sojourns/travel-bug",
   },
